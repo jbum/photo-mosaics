@@ -1,0 +1,10 @@
+flickrcache/*
+perl/apikey.ph
+python/flickr_apikey.py
+ruby/flickr_apikey.rb
+*.json
+python/*.pyc
+*.jpg
+*.list
+.DS_Store
+*.png
