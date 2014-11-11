@@ -1,6 +1,6 @@
 Photo Mosaics
 
-Code for creating photo-mosaics from Flickr thumbnails.  Based on the code I originally pushed with the book, Flickr Hacks.
+Code for creating photo-mosaics from Flickr thumbnails.  Based on the code I originally wrote for my book, Flickr Hacks.
 
 I originally wrote this code in Perl using the ImageMagick/PerlMagick library.  Incomplete, but working ports to Ruby/RMagick and Python/PIL are also provided.
 
